@@ -12,7 +12,7 @@ Um aplicativo **mobile de diário pessoal** onde você pode registrar seus momen
 |:--:|:--:|:--:|
 | <img src="https://github.com/user-attachments/assets/9a513aac-f04a-4526-875c-ee1991d7b3d5" width="250" /> | <img src="https://github.com/user-attachments/assets/8fd01a54-6821-49b5-9b17-5e3cb52f5e1c" width="250" /> | <img src="https://github.com/user-attachments/assets/0ecaf566-bfcc-4ce2-ba85-47e5fbc3f9cd" width="250" /> |
 
-| Nova Entrada | Detalhe da Entrada |
+| Home + Anotação | Detalhe da Anotação |
 |:--:|:--:|
 | <img src="https://github.com/user-attachments/assets/1de02ca3-aa93-4cce-87e0-dc3b6850222a" width="250" /> | <img src="https://github.com/user-attachments/assets/6803370e-5bd7-436d-9d98-2670f6e310b4" width="250" /> |
 
