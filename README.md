@@ -1,10 +1,10 @@
-# 🌙 Diário Pessoal — React Native + Expo + Supabase
+# 📖 Diário Pessoal — React Native + Expo + Supabase
 
 Um aplicativo **mobile de diário pessoal** onde você pode registrar seus momentos com **texto, imagens, vídeos e áudios**, além de fazer login, criar, visualizar e excluir entradas.  
 
 ---
 
-## 🖼️ Capturas de Tela
+##  Demonstração das Telas
 
 <div align="center">
 
