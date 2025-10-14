@@ -8,9 +8,11 @@ Um aplicativo **mobile de diário pessoal** onde você pode registrar seus momen
 
 <div align="center">
 
+
+
 | Login | Home | Listar Anotações |
 |:--:|:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/9a513aac-f04a-4526-875c-ee1991d7b3d5" width="250" /> | <img src="https://github.com/user-attachments/assets/8fd01a54-6821-49b5-9b17-5e3cb52f5e1c" width="250" /> | <img src="https://github.com/user-attachments/assets/0ecaf566-bfcc-4ce2-ba85-47e5fbc3f9cd" width="250" /> |
+| <img src="https://github.com/user-attachments/assets/7bacac11-3a6e-4ff0-b418-e334a0fddb90" width="250" /> | <img src="https://github.com/user-attachments/assets/8fd01a54-6821-49b5-9b17-5e3cb52f5e1c" width="250" /> | <img src="https://github.com/user-attachments/assets/0ecaf566-bfcc-4ce2-ba85-47e5fbc3f9cd" width="250" /> |
 
 | Home + Anotação | Detalhe da Anotação |
 |:--:|:--:|
